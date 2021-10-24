@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.instagram.com/samvegshah_/">
-<img align="left" alt="Saket Prag" style="background-color:white" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Saket Prag" style="background-color:white" width="22px" src="https://img.icons8.com/material-outlined/48/000000/instagram-new--v1.png" />
 </a>
 
 <br />
