@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.instagram.com/samvegshah_/">
-<img align="left" alt="Saket Prag" style="background-color:white" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy8WszQV-nNz7DE06Amp_CFyAozoP_r2YLgolZlOvNV7qi-SSBYmGgrI3L--dUa1ICyoo&usqp=CAU"/>
+<img align="left" alt="Saket Prag" style="background-color:white" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png"/>
 </a>
 
 <br />
