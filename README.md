@@ -5,7 +5,7 @@
 
 <a href="https://www.linkedin.com/in/samveg-shah-274a181a2/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>>
+</a>
 <a href="https://www.instagram.com/samvegshah_/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
